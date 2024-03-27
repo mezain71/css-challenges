@@ -1,0 +1,65 @@
+
+        body {
+            text-align: center;
+            font-family: 'Roboto', sans-serif; /* Step 4: Set font family for the entire page */
+            font-size: 21px; /* Step 5: Set body font size */
+            margin: 30px /* Remove default margin */
+        }
+
+        header {
+            background-color: #D7D7D7;
+            padding: 100px 0; /* Add spacing on top and bottom */
+        }
+
+        section.about-me {
+            background-color: #FFEAEA;
+            padding: 100px 0; /* Add spacing on top and bottom */
+        }
+
+        section.articles {
+            background-color: #EAF9FF;
+            padding: 100px 0; /* Add spacing on top and bottom */
+        }
+
+        h1 {
+            font-size: 80px; /* Step 6: Set h1 font size */
+        }
+        .np{
+            font-size: 60px;
+            margin-bottom: -40px;
+        }
+
+        h2 {
+            font-size: 60px; /* Step 7: Set h2 font size */
+            font-weight: bold;
+        }
+
+        h3 {
+            font-size: 36px; /* Step 8: Set h3 font size */
+        }
+
+        .small {
+            font-size: 16px; /* Step 9: Set small font size */
+        }
+
+        .wrapper {
+            width: 570px;
+            margin: 0 auto;
+        }
+
+        a {
+            color: #99D930; /* Step 10: Set link color */
+            text-decoration: none; /* Step 11: Remove underline from links */
+            transition: color 0.3s ease; /* Step 12: Add smooth transition */
+        }
+
+        a:hover {
+            color: #131313; /* Step 13: Set link hover color */
+        }
+        .img{
+            border-radius: 50%;
+            height: 350px;
+            width: 350px;
+        }
+
+    
